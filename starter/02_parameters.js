@@ -2,7 +2,8 @@
 // TODO: Return the sum of all numbers in the array
 
 function totalScores(scores) {
-  // Your code here
+  const scores = [75, 80, 95];
+
 }
 
 module.exports = { totalScores };
